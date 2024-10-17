@@ -3,7 +3,8 @@ This Python script scrapes information from the Wikipedia page titled List of ac
 The script extracts relevant data from the table(s) and organizes it for further analysis.
 
 # Overview
-This project uses BeautifulSoup and requests to extract data from the table on the Wikipedia page. The extracted data includes details about the Indian military aircraft, such as:
+This project uses BeautifulSoup and requests to extract data from the table on the Wikipedia page. 
+The extracted data includes details about the Indian military aircraft, such as:
 
 Aircraft name
 Manufacturer
